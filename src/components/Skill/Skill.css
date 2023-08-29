@@ -1,0 +1,14 @@
+.skill-row {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  width: 80%;
+  margin: 80px 50px;
+  text-align: left;
+}
+
+.image {
+  width: 30%;
+  float: right;
+  margin-right: 5px;
+  padding: 0px 50px 0px 0px;
+}

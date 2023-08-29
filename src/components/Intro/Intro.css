@@ -1,0 +1,28 @@
+.top-container {
+  height: 100vh;
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.mountain-img {
+  width: 40%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+  width: 15%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  top: 400px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}

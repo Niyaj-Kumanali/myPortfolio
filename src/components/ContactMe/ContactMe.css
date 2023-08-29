@@ -1,0 +1,23 @@
+.btn {
+  font-family: "Merryweather", serif;
+  color: #ffffff;
+  background: #349bdb;
+  padding: 10px 20px 10px 20px;
+  font-size: 25px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  text-decoration: none;
+  color: #40514e;
+}
+
+.contact-msg {
+  margin: 40px auto 60px;
+}
+
+.contact-me {
+  margin: 0px auto 20px;
+}
