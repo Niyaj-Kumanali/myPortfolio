@@ -42,5 +42,27 @@
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
+  },
+  "description": "This is a personal portfolio website built using ReactJS, showcasing the work and projects of Niyaj Kumanali. It provides an interactive platform to explore a variety of web development, design, and UI/UX projects. The portfolio demonstrates skills, experiences, and a passion for creating web-based solutions.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niyaj-Kumanali/myPortfolio.git"
+  },
+  "keywords": [
+    "web",
+    "developer",
+    "reactjs",
+    "developer",
+    "portfolio",
+    "website",
+    "ui/ux",
+    "designer",
+    "project"
+  ],
+  "author": "Niyaj Kumanali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niyaj-Kumanali/myPortfolio/issues"
   }
 }
