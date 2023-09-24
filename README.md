@@ -1,4 +1,3 @@
-```markdown
 # My Portfolio - ReactJS
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/Niyaj-Kumanali/myPortfolio?style=flat-square)
@@ -10,21 +9,21 @@ Visit the live portfolio: [My Portfolio - Live Demo](https://Niyaj-Kumanali.gith
 
 ## Table of Contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+-   [Description](#description)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Development](#development)
+-   [Contributing](#contributing)
+-   [License](#license)
+-   [Contact](#contact)
 
 ## Description
 
 This portfolio website is designed to:
 
-- Showcase web development, design, and UI/UX projects.
-- Highlight skills, experiences, and a passion for creating web-based solutions.
-- Provide an interactive platform for visitors to explore various projects.
+-   Showcase web development, design, and UI/UX projects.
+-   Highlight skills, experiences, and a passion for creating web-based solutions.
+-   Provide an interactive platform for visitors to explore various projects.
 
 ## Installation
 
@@ -32,21 +31,21 @@ To get a local copy of this project up and running, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Niyaj-Kumanali/myPortfolio.git
-   ```
+    ```bash
+    git clone https://github.com/Niyaj-Kumanali/myPortfolio.git
+    ```
 
 2. Change to the project directory:
 
-   ```bash
-   cd myPortfolio
-   ```
+    ```bash
+    cd myPortfolio
+    ```
 
 3. Install the project dependencies:
 
-   ```bash
-   npm install
-   ```
+    ```bash
+    npm install
+    ```
 
 ## Usage
 
@@ -64,10 +63,10 @@ This will start the development server, and you can access the portfolio in your
 
 In the project directory, you can run the following scripts:
 
-- `npm start`: Start the development server.
-- `npm run build`: Build the project for production.
-- `npm test`: Run tests.
-- `npm run eject`: Eject from Create React App.
+-   `npm start`: Start the development server.
+-   `npm run build`: Build the project for production.
+-   `npm test`: Run tests.
+-   `npm run eject`: Eject from Create React App.
 
 ### Deploying to GitHub Pages
 
@@ -95,7 +94,6 @@ This project is licensed under the [ISC License](LICENSE).
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Author**: Niyaj Kumanali
-- **GitHub**: [Niyaj-Kumanali](https://github.com/Niyaj-Kumanali)
-- **Report Issues**: [GitHub Issues](https://github.com/Niyaj-Kumanali/myPortfolio/issues)
-```
+-   **Author**: Niyaj Kumanali
+-   **GitHub**: [Niyaj-Kumanali](https://github.com/Niyaj-Kumanali)
+-   **Report Issues**: [GitHub Issues](https://github.com/Niyaj-Kumanali/myPortfolio/issues)
