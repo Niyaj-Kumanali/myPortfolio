@@ -5,7 +5,7 @@
 
 Welcome to **My Portfolio**, a personal portfolio website built using ReactJS, showcasing the work and projects of **Niyaj Kumanali**. This interactive platform provides a glimpse into a variety of web development, design, and UI/UX projects, demonstrating skills, experiences, and a passion for creating web-based solutions.
 
-Visit the live portfolio: [My Portfolio - Live Demo](https://Niyaj-Kumanali.github.io/myPortfolio.git)
+Visit the live portfolio: [My Portfolio - Live Demo](https://niyaj-kumanali.github.io/myPortfolio/)
 
 ## Table of Contents
 

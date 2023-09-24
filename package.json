@@ -1,7 +1,7 @@
 {
   "name": "myportfolio_reactjs",
   "version": "0.1.0",
-  "homepage": "https://Niyaj-Kumanali.github.io/myPortfolio.git",
+  "homepage": "https://niyaj-kumanali.github.io/myPortfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
